@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89293116565",
+    "project_id": "cuoiky-ada06",
+    "storage_bucket": "cuoiky-ada06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89293116565:android:556fea6c5f4fc7528af79c",
+        "android_client_info": {
+          "package_name": "com.example.cuoiky_leduyminhduong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUrQMLbP9LWXlFtjDMKqHrSqpWLu_8rq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
